@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F800A5981C97172300E9516C /* EditProfileController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F800A5971C97172300E9516C /* EditProfileController.swift */; };
 		F89CB9F11C8F349100529B58 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F89CB9F01C8F349100529B58 /* AppDelegate.swift */; };
 		F89CB9F31C8F349100529B58 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F89CB9F21C8F349100529B58 /* ViewController.swift */; };
 		F89CB9F61C8F349100529B58 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F89CB9F41C8F349100529B58 /* Main.storyboard */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F800A5971C97172300E9516C /* EditProfileController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EditProfileController.swift; sourceTree = "<group>"; };
 		F89CB9ED1C8F349100529B58 /* Instamash.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Instamash.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F89CB9F01C8F349100529B58 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F89CB9F21C8F349100529B58 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -89,6 +91,7 @@
 			children = (
 				F8AC79DD1C921C6A008AB100 /* ProfileController.swift */,
 				F8AC79DF1C92402E008AB100 /* FeedController.swift */,
+				F800A5971C97172300E9516C /* EditProfileController.swift */,
 			);
 			name = Controller;
 			sourceTree = "<group>";
@@ -173,6 +176,7 @@
 			files = (
 				F8AC79DE1C921C6A008AB100 /* ProfileController.swift in Sources */,
 				F8AC79E01C92402E008AB100 /* FeedController.swift in Sources */,
+				F800A5981C97172300E9516C /* EditProfileController.swift in Sources */,
 				F89CB9F31C8F349100529B58 /* ViewController.swift in Sources */,
 				F8AC79DA1C91CDB4008AB100 /* PostModel.swift in Sources */,
 				F89CB9F11C8F349100529B58 /* AppDelegate.swift in Sources */,
